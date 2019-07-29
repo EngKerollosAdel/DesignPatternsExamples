@@ -12,7 +12,7 @@ namespace DesignPatternsExamples
             // Constructor is protected -- cannot use new 
             Singleton s1 = Singleton.Instance();
             Singleton s2 = Singleton.Instance();
-
+            asdsa
             // Test for same instance 
             if (s1 == s2)
             {
